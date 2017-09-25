@@ -3,5 +3,5 @@ function theBeatlesPlay (musicians, instruments) {
   for ( var i = 0; i <4; i++) {
     whoPlaysWhat.push(musicians[i] + ' plays ' + instruments[i]);
   }
-  return theBeatlesPlay;
-}
+  return whoPlaysWhat;
+}	
