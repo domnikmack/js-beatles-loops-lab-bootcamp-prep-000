@@ -4,4 +4,4 @@ function theBeatlesPlay (musicians, instruments) {
     whoPlaysWhat.push(musicians[i] + ' plays ' + instruments[i]);
   }
   return whoPlaysWhat;
-}	
+}
